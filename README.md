@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Max Jones</h1>
+<h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate frontend developer from San Francisco</h3>
 
 - 🔭 I’m currently working on **An Arcade Website**
@@ -16,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maxcharlesjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxcharlesjones" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maximilian jones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian jones" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maximilianjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilian jones" height="30" width="40" /></a>
 <a href="https://medium.com/@maxcharles500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maxcharlesjones" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maxcharles500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxcharles500" height="30" width="40" /></a>
 </p>
