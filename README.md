@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate frontend developer from San Francisco</h3>
 
-- 🔭 I’m currently working on **An Arcade Website**
+- 🔭 I’m currently working on **A Platforming Video Game in JavaScript**
 
 - 🌱 I’m currently learning **Game Development in JavaScript**
 
